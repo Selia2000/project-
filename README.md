@@ -21,6 +21,8 @@ express
 **Installing**
 
 The best option to start with this project is cloning it in your PC:
+git clone 
+https://github.com/Selia2000/project-
 
 
 This project contains 2 different parts:
