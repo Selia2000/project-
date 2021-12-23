@@ -3,6 +3,7 @@ the project is about online library
 
 It is an app that will allow every kind of people (student,children, doctor,workers) to have a lot of book to read without
  having to go to a physical library.
+ They can let some comments after reading a book. This will help others people in their choice to read one book
  
 **Getting Started
 Download links from Github:
